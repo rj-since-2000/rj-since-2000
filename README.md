@@ -1,10 +1,11 @@
 ## Hi there 👋
 
 #### "Programming isn't about what you know; it's about what you can figure out.” - Chris Pine
+<br>
 
-I code for FUN in any language including   
-| Java | C/C++ | Dart | Python |
- | :---: | :---: | :---: | :---: |
+Hi, I'm [Rajan Jaiswal](https://www.instagram.com/likeadiamondintheskyi/), a passionate self-taught Full Stack App Developer 🚀 from India.
+
+  <img align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif?raw=true" width="400" height="320" />
  
 
 ### Technologies & Frameworks I have worked with : 
@@ -38,6 +39,7 @@ I code for FUN in any language including
 
 - 💬 Ask me about anything, I am happy to help anytime!
 - Open Source enthusiast
+- Working on a masterpiece!
 
 ## :rainbow: Improvise Adapt Overcome
 ![](https://komarev.com/ghpvc/?username=rj-since-2000)
