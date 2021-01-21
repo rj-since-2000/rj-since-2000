@@ -1,7 +1,7 @@
 
 "Programming isn't about what you know; it's about what you can figure out.” - Chris Pine
 <br>
-### Hi there 👋, I'm [Rajan Jaiswal](https://www.instagram.com/likeadiamondintheskyi/), a passionate self-taught Full Stack App Developer 🚀 from India.
+### Hi there 👋, I'm [Rajan Jaiswal](https://www.instagram.com/likeadiamondintheskyi/), a passionate self-taught Developer 🚀 from India.
 
   <img align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif?raw=true" width="400" height="320" />
  
