@@ -22,14 +22,16 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-
 ### Connect with me here:  
-<a href="https://www.linkedin.com/in/rajan-jaiswal-22a04113b/">
+  <a href="https://www.linkedin.com/in/rajan-jaiswal-22a04113b/">
     <img align="left" alt="Rajan Jaiswal | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="https://instagram.com/likeadiamondintheskyi">
     <img align="left" alt="likeadiamondintheskyi | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>  
+  <a href="https://twitter.com/rjsince2000">
+    <img align="left" alt="rjsince2000 | Twitter" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  </a>
 
 <br>
 <br>
@@ -38,7 +40,6 @@
 - 💬 Ask me about anything, I am happy to help anytime!
 - Open Source enthusiast
 - Working on a masterpiece!
-- Call me RJ
 
 ## :rainbow: Improvise Adapt Overcome
 ![](https://komarev.com/ghpvc/?username=rj-since-2000)
