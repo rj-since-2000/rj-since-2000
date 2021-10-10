@@ -26,10 +26,10 @@
   <a href="https://www.linkedin.com/in/rajan-jaiswal-22a04113b/">
     <img align="left" alt="Rajan Jaiswal | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="https://instagram.com/likeadiamondintheskyi">
+  <a href="https://instagram.com/rajanjaiswol">
     <img align="left" alt="likeadiamondintheskyi | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>  
-  <a href="https://twitter.com/rjsince2000">
+  <a href="https://twitter.com/rajanjaiswol">
     <img align="left" alt="rjsince2000 | Twitter" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
 
