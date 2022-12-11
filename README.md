@@ -32,14 +32,3 @@
   <a href="https://twitter.com/rajanjaiswol">
     <img align="left" alt="rjsince2000 | Twitter" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
-
-<br>
-<br>
-
-
-- 💬 Ask me about anything, I am happy to help anytime!
-- Open Source enthusiast
-- Working on a masterpiece!
-
-## :rainbow: Improvise Adapt Overcome
-![](https://komarev.com/ghpvc/?username=rj-since-2000)
